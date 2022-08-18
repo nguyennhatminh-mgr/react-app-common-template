@@ -7,14 +7,14 @@
 - Husky
 - Eslint
 - Prettier
-- React router
+- React router v6
 - React testing library
 - Storybook
 
 ## Versions
 
-- This app use Node 16.13.1
-- Npm: 8.1.2
+- This app use Node 14.18.0
+- Npm: 6.14.15
 
 ## Available Scripts
 

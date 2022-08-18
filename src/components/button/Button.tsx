@@ -6,7 +6,11 @@ interface IButtonProps {
 
 const Button: React.FC<IButtonProps> = (props) => {
   const { text } = props;
-  return <button type="button">{text}</button>;
+  return (
+    <button className="text-red-500" type="button">
+      {text}
+    </button>
+  );
 };
 
 export default Button;

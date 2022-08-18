@@ -1,4 +1,4 @@
 export const RouterConstants = {
-  root: '/',
-  home: '/home',
+  home: '/',
+  login: '/login',
 };

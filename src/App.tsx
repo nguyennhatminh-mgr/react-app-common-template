@@ -1,14 +1,8 @@
-import React from 'react';
-import { Home } from 'pages';
-
+import { MainRoute } from 'routes';
 import './App.css';
 
 function App() {
-  return (
-    <div>
-      <Home />
-    </div>
-  );
+  return <MainRoute />;
 }
 
 export default App;
